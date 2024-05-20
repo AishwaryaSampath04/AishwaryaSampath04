@@ -1,4 +1,4 @@
-<h2 align="left">Namaste! I am Aishwrya Sampath from Bengaluru</h2>
+<h2 align="left">Namaste! I am Aishwarya Sampath from Bengaluru</h2>
 
 ###
 
